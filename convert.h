@@ -1,0 +1,1 @@
+uint32_t convert(uint32_t num);
